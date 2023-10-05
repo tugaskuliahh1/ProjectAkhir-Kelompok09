@@ -39,6 +39,7 @@ public class PenggajianGuru {
         System.out.println("Total Gaji: Rp " + total + ",00\n");
         System.out.println(
                 "         Gunakan Gaji Anda Dengan Penuh Manfaat \nKarena Hasil Kerja Kerasmu Tidak Pantas Untuk Di Sia-Siakan");
+                System.out.println("selesai proses");
     }
 }
 
